@@ -1,0 +1,4 @@
+.idea
+*.bat
+node_modules/
+test.mp4
